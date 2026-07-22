@@ -1,0 +1,5 @@
+/* Please define your custom styles here */
+.tategaki {
+  -ms-writing-mode: tb-rl;
+  writing-mode: vertical-rl;
+}
